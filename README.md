@@ -7,6 +7,8 @@ The usage and syntax are retained here, just follow the folder paths.
 
 Feel free to contribute!
 
+Snippets by Troy Uyan, Jesse Byars
+
 <hr>
 
 <h3>Table of Contents</h3>

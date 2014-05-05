@@ -1,0 +1,26 @@
+/*
+To create a media query WITHIN a stylesheet
+This goes inside a .css or .scss file
+*/
+
+@media all {
+    /* CSS code here */
+}
+
+@media all and (min-width: 600px) {
+    /* CSS code here */
+}
+
+@media handheld and (min-width: 600px) and (max-width: 900px) {
+    /* CSS code here */
+}
+
+
+/*
+To create a media query by LINKING to a seperate stylesheet
+This goes inside the head section in a .html file
+*/
+
+<link rel="stylesheet" media="all and (min-width: 600px)" href="style.css" />
+
+<link rel="stylesheet" media="all and (min-width: 600px) and (max-width: 900px)" href="style.css" />
