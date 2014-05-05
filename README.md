@@ -1,39 +1,45 @@
 Code Tips to Remember
 =====================
 
-Collection of those pesky code tricks you might forget!
+Collection of those pesky code snippets you might forget!
 
-The use and syntax are marked here. Just follow the folder paths!
+The usage and syntax are retained here.<br>
+Just follow the folder paths!
 
-	HTML
+<hr>
 
-Basic HTML5 template
+<h3>Table of Contents</h3>
 
-	CSS
+^ = Coming soon!
 
-Media Query Syntax<br>
-Horizontal Lists<br>
-Vocabulary
+	HTML - Hypertext Markup Language
 
-	SASS
+Basic HTML5 template^<br>
+Nested lists^<br>
 
-	PHP
+	CSS - Cascading Style Sheets
+
+Media Query Syntax^<br>
+Horizontal Lists^<br>
+Vocabulary^<br>
+
+	SASS - Syntactically Awesome Style Sheets
+
+Mixins (Basic and Advanced)^
+
+	PHP - 
+
+Quotes and concatenation^
 
 	JS / JQuery
+
+
 
 	HAML
 
 
 
 
-css; 
-selector, property, attribute, value vocab
-media query syntax with min only and min/max together
-li display inline-block
- 
- 
-html; 
-basic 5 html elements
  
 php; 
 qoutes/variables echo, concatenate strings (.)
