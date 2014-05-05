@@ -7,7 +7,7 @@ The usage and syntax are retained here, just follow the folder paths or click a 
 
 Feel free to contribute!
 
-Snippets by Troy Uyan, Jesse Byars
+Snippets by Troy Uyan
 
 <hr>
 
@@ -19,6 +19,8 @@ Snippets by Troy Uyan, Jesse Byars
 
 [Media Query Syntax](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/media_queries_syntax.css)<br>
 [Horizontal Lists and Navigation](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/horizontal_lists_and_nav.css)<br>
+[Reset CSS](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/reset.css)<br>
+[Stylesheet Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/style_template.css)<br>
 [Vocabulary](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/vocabulary.css)<br>
 
 	SASS - Syntactically Awesome Style Sheets
@@ -40,7 +42,7 @@ Auto-submit Select Form^<br>
 
 	HTML - Hypertext Markup Language
 
-Basic HTML5 Template^<br>
+[Basic HTML5 Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/html/page_template.html)<br>
 Nested Lists^<br>
 
 	HAML - Hypertext Abstraction Markup Language
