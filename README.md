@@ -3,7 +3,7 @@ Code Tips to Remember
 
 Collection of those pesky code snippets you might forget!
 
-The usage and syntax are retained here, just follow the folder paths.
+The usage and syntax are retained here, just follow the folder paths or click a link in the table of contents below.
 
 Feel free to contribute!
 
