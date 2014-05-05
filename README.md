@@ -3,19 +3,15 @@ Code Tips to Remember
 
 Collection of those pesky code snippets you might forget!
 
-The usage and syntax are retained here.<br>
-Just follow the folder paths!
+The usage and syntax are retained here, just follow the folder paths.
+
+Feel free to contribute!
 
 <hr>
 
 <h3>Table of Contents</h3>
 
 ^ = Coming soon!
-
-	HTML - Hypertext Markup Language
-
-Basic HTML5 template^<br>
-Nested lists^<br>
 
 	CSS - Cascading Style Sheets
 
@@ -25,25 +21,29 @@ Vocabulary^<br>
 
 	SASS - Syntactically Awesome Style Sheets
 
-Mixins (Basic and Advanced)^
+Mixins (Basic and Advanced)^<br>
 
 	PHP - Hypertext Preprocessor
 
-Quotes and concatenation^
+Single-Page Forms^<br>
+Sticky Forms^<br>
+Querying a Database^<br>
+Session Variables^<br>
+Quotes and Concatenation^<br>
 
 	JS / JQuery - JavaScript
 
+Auto-submit Select Form^<br>
 
+	HTML - Hypertext Markup Language
+
+Basic HTML5 template^<br>
+Nested lists^<br>
 
 	HAML - Hypertext Abstraction Markup Language
 
+*Coming Soon*<br>
 
+	SQL - Structured Query Language
 
-
- 
-php; 
-qoutes/variables echo, concatenate strings (.)
- 
- 
-sass;
-mixins that pass parameters
+*Coming soon*<br>
