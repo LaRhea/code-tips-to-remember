@@ -17,7 +17,7 @@ Snippets by Troy Uyan, Jesse Byars
 
 	CSS - Cascading Style Sheets
 
-Media Query Syntax^<br>
+[Media Query Syntax](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/media_queries_syntax.css)<br>
 Horizontal Lists^<br>
 Vocabulary^<br>
 
