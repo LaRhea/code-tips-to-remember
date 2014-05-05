@@ -1,0 +1,79 @@
+/*
+Selector: The html element, id, or class that starts the CSS block.
+*/
+
+body {}
+
+#id {}
+
+.class {}
+
+
+/*
+Property and Value: The type of CSS change and its actual change.
+Such as a "color" and a hexcode.
+The combined property and value make an Attribute.
+*/
+
+.class {
+    /* Attribute */
+    property: value;
+}
+
+.class {color: #05f;}
+
+
+/*
+Attibute-block: Multiple attributes (property + value) make up an Attibute-block.
+*/
+
+#selector {
+    /* Attibute-block */
+    color: #05f;
+    background: 1px solid #fff;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+/*
+CSS Rule: The selector, attributes, properties, and values make up the entire CSS Rule.
+From the selector to the closing curly brace (}). This a full CSS rule:
+*/
+
+.class_name {
+    color: #05f;
+    background: 1px solid #fff;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+/*
+At-Rule: Rules are started with an @ sign.
+*/
+
+@import('css/main.css')
+
+@media all and (min-width:600px) {
+    /* CSS code here */
+}
+
+
+/*
+CSS Shorthand: Using abreviated properties and values.
+Used to reference multiple properties at once or define multiple values at once.
+*/
+
+.class {
+    /* background-image, background-repeat, background-attachment, background-color */
+    background: url('img/background.png') repeat scroll red;
+    
+    /* padding-top, padding-right, padding-bottom, padding-left */
+    padding: 10px;
+    
+    /* margin-top and margin-bottom, then margin-right and margin-left */
+    margin: 5px 8px;
+}
+
+
