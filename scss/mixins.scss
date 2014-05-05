@@ -1,0 +1,38 @@
+// Mixins and Includes
+// Assign a block of attributes a mixin (calling card) and inlcude it later.
+// Mixins can also take parameters.
+
+
+// Defining values
+// Font-stack
+$font: 'Open Sans', Helvetica, 'sans-serif';
+// Colors
+$main: #05f;
+$alt: #f50;
+$shade: #333;
+
+// Using pre-defined values
+@mixin color-font {
+    font: $font;
+    color: $main;
+    background-color: $shade;
+}
+
+// Using dynamic values with parameters
+@mixin box($margin,$padding) {
+    margin:$margin;
+    padding:$padding;    
+}
+
+// Including mixins
+.grid-spot {
+    @include color-font;
+    border: 2px solid $main;
+    color: $alt;
+}
+
+.comment {
+    @include color-font;
+    @include box(10px,5px); // Pass in the parameters
+    color: $alt;
+}

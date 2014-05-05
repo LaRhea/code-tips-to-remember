@@ -1,0 +1,67 @@
+// Mobile-first media query setup for SaSS.
+
+@media all {
+
+	#header {
+        // Header styles here
+    }
+    
+    #content {
+		// Content styles here 
+    }
+    
+    #sidebar {
+        // Sidebar styles here 
+    }
+       
+    #footer {
+        // Footer styles here
+    }  
+    
+} // End MQ
+
+
+@media all and (min-width:400px) {
+    
+	#header {
+        // Header styles here
+    }
+    
+    #content {
+		// Content styles here 
+    }
+    
+    #sidebar {
+        // Sidebar styles here 
+    }
+       
+    #footer {
+        // Footer styles here
+    }    
+    
+} // End MQ
+
+
+@media all and (min-width:800px) {
+    
+    #pagewrapper {
+        max-width: 1000px;
+    }
+    
+	#header {
+        // Header styles here
+    }
+    
+    #content {
+		// Content styles here 
+    }
+    
+    #sidebar {
+        // Sidebar styles here 
+    }
+       
+    #footer {
+        // Footer styles here
+    }    
+    
+} // End MQ

@@ -23,7 +23,8 @@ Snippets by Troy Uyan, Jesse Byars
 
 	SASS - Syntactically Awesome Style Sheets
 
-Mixins (Basic and Advanced)^<br>
+[Mixins (Basic and Advanced)](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/mixins.scss)<br>
+[Media Query Breakpoint Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/mq_breakpoint_template.scss)<br>
 
 	PHP - Hypertext Preprocessor
 
@@ -39,12 +40,12 @@ Auto-submit Select Form^<br>
 
 	HTML - Hypertext Markup Language
 
-Basic HTML5 template^<br>
-Nested lists^<br>
+Basic HTML5 Template^<br>
+Nested Lists^<br>
 
 	HAML - Hypertext Abstraction Markup Language
 
-*Coming Soon*<br>
+Basic HTML5 Template^<br>
 
 	SQL - Structured Query Language
 
