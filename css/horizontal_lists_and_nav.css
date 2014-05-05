@@ -1,0 +1,47 @@
+/*
+Horizonal lists for plain textual lists:
+You are going to target the li specifically, not the ul.
+So we do ul>li as a selector.
+*/
+
+ul li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 10px;
+}
+
+
+/*
+Making a navigation type button group:
+The ul has an ID in this case, so we target that in our selector.
+Remember the padding needs to be on the anchor, not the li, so the background is an active anchor as well.
+We also want to do inline-block as a display value when using anchors and backgrounds.
+
+The HTML for this snippet is:
+
+<ul id="navlist">
+    <li><a href="#">Button</a></li>
+    <li><a href="#">Button</a></li>
+    <li><a href="#">Button</a></li>
+</ul>
+
+*/
+
+#navlist li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+#navlist li a {
+  text-decoration: none;
+  padding: 7px 10px;
+  margin-right: 5px;
+  border-radius:10px;
+  background-color: #05f;
+  color: #fff;
+}
+
+#navlist li a:hover {
+  color: #05f;
+  background-color: #fff;
+}
