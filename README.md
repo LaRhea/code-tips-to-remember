@@ -27,15 +27,15 @@ Vocabulary^<br>
 
 Mixins (Basic and Advanced)^
 
-	PHP - 
+	PHP - Hypertext Preprocessor
 
 Quotes and concatenation^
 
-	JS / JQuery
+	JS / JQuery - JavaScript
 
 
 
-	HAML
+	HAML - Hypertext Abstraction Markup Language
 
 
 
