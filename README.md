@@ -7,7 +7,7 @@ The usage and syntax are retained here, just follow the folder paths or click a 
 
 Feel free to contribute!
 
-Snippets by Troy Uyan
+Snippets by Troy Uyan, Eric Meyer, Chris Coyier
 
 <hr>
 
@@ -20,6 +20,7 @@ Snippets by Troy Uyan
 [Media Query Syntax](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/media_queries_syntax.css)<br>
 [Horizontal Lists and Navigation](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/horizontal_lists_and_nav.css)<br>
 [Reset CSS](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/reset.css)<br>
+[Sticky Footer](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/sticky_footer.css)<br>
 [Stylesheet Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/style_template.css)<br>
 [Vocabulary](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/vocabulary.css)<br>
 
