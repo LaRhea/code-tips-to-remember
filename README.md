@@ -27,7 +27,7 @@ Snippets by Troy Uyan, Eric Meyer, Chris Coyier
 	SASS - Syntactically Awesome Style Sheets
 
 [Mixins (Basic and Advanced)](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/mixins_basics.scss)<br>
-[Mixins (Basic and Advanced)](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/sass_basics.scss)<br>
+[Sass Basics](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/sass_basics.scss)<br>
 [Media Query Breakpoint Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/mq_breakpoint_template.scss)<br>
 
 	PHP - Hypertext Preprocessor
