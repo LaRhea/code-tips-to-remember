@@ -17,8 +17,8 @@ Snippets by Troy Uyan, Eric Meyer, Chris Coyier
 
 	CSS - Cascading Style Sheets
 
-[Media Query Syntax](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/media_queries_syntax.css)<br>
 [Horizontal Lists and Navigation](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/horizontal_lists_and_nav.css)<br>
+[Media Query Syntax](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/media_queries_syntax.css)<br>
 [Reset CSS](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/reset.css)<br>
 [Sticky Footer](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/sticky_footer.css)<br>
 [Stylesheet Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/style_template.css)<br>
@@ -26,17 +26,17 @@ Snippets by Troy Uyan, Eric Meyer, Chris Coyier
 
 	SASS - Syntactically Awesome Style Sheets
 
+[Media Query Breakpoint Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/mq_breakpoint_template.scss)<br>
 [Mixins (Basic and Advanced)](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/mixins_basics.scss)<br>
 [Sass Basics](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/sass_basics.scss)<br>
-[Media Query Breakpoint Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/scss/mq_breakpoint_template.scss)<br>
 
 	PHP - Hypertext Preprocessor
 
+Querying a Database^<br>
+Quotes and Concatenation^<br>
+Session Variables^<br>
 Single-Page Forms^<br>
 Sticky Forms^<br>
-Querying a Database^<br>
-Session Variables^<br>
-Quotes and Concatenation^<br>
 
 	JS / JQuery - JavaScript
 
