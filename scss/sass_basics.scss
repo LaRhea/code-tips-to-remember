@@ -1,0 +1,74 @@
+// Introduction to SaSS
+// By Troy Uyan
+
+
+//          Nesting
+// Quickly modify sub-selectors, clean and semantic nesting, reusable sub-selectors
+
+@media all and (min-width:600px) {
+    #content {
+        h3 {
+            font-size: 1.6em;
+            color: #666;
+        }
+        
+        li {
+            display: inline-block;
+        }
+    } // end content
+} // end MQ
+
+#sidebar {
+    h4 {
+        font-size: 2em;
+        color: #333;
+    }
+    
+    ul {
+        margin: 10px;
+        list-style: none;
+    }
+    
+    li {
+        display: inline-block;
+    }
+} // end sidebar
+
+// end nesting example
+
+
+
+
+
+//          Variables
+// Define fonts, sizes, colors, margins, etc. in a single place and reference them later
+
+// Font-stack
+$font: 'Open Sans', Helvetica, 'sans-serif';
+
+// Colors
+$main: #05f;
+$alt: #f50;
+$shade: #333;
+
+// Calling variables in your styles
+body {
+    font-family: $font;
+    color: $shade;
+}
+
+#content {
+    color: $main;
+}
+
+#sidebar {
+    color: $alt;
+}
+
+.comment {
+    color: $shade;
+    border: 1px solid $main;
+}
+
+// end variables example
+
