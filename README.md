@@ -23,6 +23,7 @@ Snippets by Troy Uyan, Eric Meyer, Chris Coyier
 [Sticky Footer](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/sticky_footer.css)<br>
 [Stylesheet Template](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/style_template.css)<br>
 [Vocabulary](https://github.com/TroyUyan/code-tips-to-remember/blob/master/css/vocabulary.css)<br>
+Basic Transitions^<br>
 
 	SASS - Syntactically Awesome Style Sheets
 
